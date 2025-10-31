@@ -21,8 +21,8 @@ Plotly , Matplotlib
 Folium (for maps)
 
 ### 📸 Sample Visuals
-![Yearly Trend](assets/yearly-trend.png)
-![Sankey Diagram](assets/sankey-diagram.png)
-![Geospatial Map](assets/map-view.png)
-![Dashboard Overview](assets/report.png)
-![Report View](assets/analytical-report.png)
+![Yearly Trend](assests/yearly-trend.png)
+![Sankey Diagram](assests/sankey-diagram.png)
+![Geospatial Map](assests/map-view.png)
+![Dashboard Overview](assests/report.png)
+![Report View](assests/analytical-report.png)
